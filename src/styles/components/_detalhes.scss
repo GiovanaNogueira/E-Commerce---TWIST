@@ -1,0 +1,59 @@
+.detalhes{
+    display: flex;
+    padding-top: 5%;
+    padding-inline: 10%;
+}
+
+.infos{
+    width: 60%;
+    padding-inline: 5%;
+    font-size: $font-size-medium ;
+}
+
+.nomeFav{
+    display: inline-block;
+}
+
+.divPreco{
+    width: 70%;
+    height: 70%;
+    border-radius: 5%;
+    padding: 2%;
+    background-color: $light-pink;
+    display: block;
+    font-size: $font-size-medium;
+}
+
+.bAdd{
+    display: block;
+    font-size:$font-size-large;
+    padding: 4%;
+    width: 100%;
+}
+
+.bCarrinho{
+    margin-top: 7%;
+    display: block;
+    font-size:$font-size-large;
+    background-color: $dark-pink;
+    padding: 4%;
+    width: 100%;
+}
+
+.comentarios{
+    font-size: $font-size-medium;
+    background-color: $light-pink;
+    border-radius: 1rem;
+    padding: 1%;
+    margin-top: 30px;
+    margin-inline: 1%;
+}
+.coment{
+    margin-top: 30px;
+    font-size: $font-size-small;
+    background-color: white;
+    border-radius: 1rem;
+    margin-inline: 2%;
+    padding: 1%;
+    margin-bottom: 20px;
+}

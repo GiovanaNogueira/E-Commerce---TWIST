@@ -1,0 +1,45 @@
+.carrinho{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.divCarrinho{
+    display: flex;
+    margin-top:2%;
+}
+
+.divEnderecos{
+    background-color: $light-pink;
+    border-radius: 1rem;
+    font-size: $font-size-small;
+    padding: 2%;
+    width: 50%;
+    left: 10%;
+    margin-left:10%;
+
+}
+
+.resumoPedido{
+    background-color: $light-pink;
+    border-radius: 5%;
+    font-size: $font-size-small;
+    padding: 2%;
+    margin-left: 5%;
+    width:20%;
+}
+
+.endereco{
+    margin-block: 5%;
+
+}
+
+.imgCancelar{
+    margin-top: 4%;
+    width: 20px;
+    height: 20px;
+    margin-left: 3%;
+}
+
+.produto{
+    display: flex;
+}
